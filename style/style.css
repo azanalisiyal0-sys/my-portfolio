@@ -1,0 +1,53 @@
+* {
+    align-items: center;
+    text-align: center;
+}
+body {
+    font-family: 'poppins', sans-serif;
+    background: linear-gradient(120deg, #000000, #003097, #000000);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+img {
+    height: 215px;
+    width: 215px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+    margin: 0;
+    border: 0px;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.side-left {
+    
+    
+    align-items: center;
+    text-align: center;
+    
+}
+h3 {
+    font-family: 'poppins', 'sans-serif' ;
+    background-color: #2b00ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+footer {
+    text-align: center;
+    margin: 0;
+    border: 0px;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+
